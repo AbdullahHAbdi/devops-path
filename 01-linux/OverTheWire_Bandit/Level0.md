@@ -20,7 +20,7 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 
 **Password:** bandit0
 
-![Bandit Level 0](../screenshots/Level0.png)
+![Bandit Level 0](screenshots/Level0.png)
 
 
 **What I learned:** 
