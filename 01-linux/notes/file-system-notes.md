@@ -1,4 +1,3 @@
-```markdown
 # Linux File System Navigation
 
 ## Key Concepts
@@ -35,8 +34,6 @@ Through these exercises, I've learned how to confidently navigate the Linux file
 I have also learned how to inspect and monitor file contents, using commands like `head` and `tail` to view the beginning or end of a file quickly. In addition, I have explored managing file permissions using the octal method with `chmod`, for example `chmod 456`, which assigns different read, write, and execute permissions to the owner, group, and others (`r--r-xrw-`). 
 
 Learning these skills is fundamental for working efficiently in Linux systems and is commonly used when managing servers and troubleshooting issues.  
-
-```
 
 
 
