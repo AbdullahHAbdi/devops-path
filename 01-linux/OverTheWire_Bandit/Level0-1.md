@@ -20,7 +20,7 @@ cat readme
 
 **Password:** ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
-![Bandit Level 0](screenshots/Level0-1.png)
+![Bandit Level 0 -> 1](screenshots/Level0-1.png)
 
 
 **What I learned:** 
