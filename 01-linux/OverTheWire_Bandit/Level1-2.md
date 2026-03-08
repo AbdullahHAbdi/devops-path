@@ -19,7 +19,7 @@ cat ./-
 
 **Password:** 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-![Bandit Level 0](screenshots/Level1-2.png)
+![Bandit Level 1 -> 2](screenshots/Level1-2.png)
 
 
 **What I learned:** 
