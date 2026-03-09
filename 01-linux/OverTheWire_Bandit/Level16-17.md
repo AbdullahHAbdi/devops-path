@@ -1,6 +1,6 @@
 ## Bandit Level 16 → Level 17
 
-**Challenge:** :
+**Challenge:** Retrieve credentials from a port on a localhost in the range 31000 to 32000:
 - The password for the next level must be retrieved by submitting the current level password to a service running on `localhost`.
 - The service is running on one port between 31000 and 32000.
 - First identify which ports are open, then determine which one uses SSL/TLS and returns the credentials.
