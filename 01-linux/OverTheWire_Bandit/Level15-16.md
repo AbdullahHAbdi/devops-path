@@ -20,8 +20,8 @@ echo "8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo" | openssl s_client -connect localhost:30
 **Password:** kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 
-![Bandit Level 15 -> 16](screenshots/Level5-16.png)
-![Bandit Level 15 -> 16-1](screenshots/Level5-16-1.png)
+![Bandit Level 15 -> 16](screenshots/Level15-16.png)
+![Bandit Level 15 -> 16-1](screenshots/Level15-16-1.png)
 
 
 **What I learned:** 
