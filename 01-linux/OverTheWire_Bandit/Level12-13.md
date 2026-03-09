@@ -57,6 +57,5 @@ cat data8
 
 
 **What I learned:** 
--
--
--
+- The `xxd -r` command can convert a hex dump back into a binary file.
+- Some files may be compressed multiple times, requiring repeated extraction.
