@@ -29,5 +29,5 @@ cat ./maybehere07/.file2
 
 
 **What I learned:** 
--The `find` command can search for files based on specific properties like size and type.
+- The `find` command can search for files based on specific properties like size and type.
 - The `-size 1033c` flag searches for files that are exactly 1033 bytes.
