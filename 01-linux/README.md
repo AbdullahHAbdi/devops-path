@@ -1,32 +1,32 @@
 # 01 - Linux Fundamentals
 
-Linux is the foundation of DevOps. Most servers, containers, and cloud infrastructure run on Linux.
+Linux is the foundation of modern **DevOps environments**. Most cloud infrastructure, containers, and servers run on Linux, making command-line proficiency essential.
 
-## What You'll Learn
+## What I Learned
 
-- Navigating the file system
-- File permissions and ownership
-- Users and groups
-- Process management
-- Package management
-- Essential commands
+* Navigating the Linux file system (`cd`, `ls`, `pwd`)
+* Creating and managing files and directories (`mkdir`, `touch`, `cp`, `mv`, `rm`)
+* Viewing and inspecting files (`cat`, `head`, `tail`)
+* Understanding file permissions and modifying them with `chmod`
+* Basic troubleshooting and system navigation on Linux servers
 
 ## Folder Structure
 
 ```
 01-linux/
-├── notes/       # Your notes from lessons
-├── labs/        # Completed lab exercises
-└── projects/    # Hands-on projects
+├── notes/                # Personal Linux learning notes
+└── OverTheWire_Bandit/   # Bandit 0–20 challenge solutions and walkthroughs
 ```
 
-## Suggested Projects
+## Practice
 
-- [ ] Create a system info script that displays OS, memory, disk usage
-- [ ] Set up a new user with specific permissions
-- [ ] Write a log rotation script
+My learning includes:
+
+* Personal notes from Linux lessons
+* Hands-on exercises
+* Completing **OverTheWire Bandit (Levels 0–20)** to strengthen Linux command-line and system concepts.
 
 ## Resources
 
-- [Linux Command Cheat Sheet](https://github.com/coderco-learning/dotfiles)
-- Man pages: `man <command>`
+* [Linux Command Cheat Sheet](https://github.com/coderco-learning/dotfiles)
+* `man <command>` for built-in documentation
