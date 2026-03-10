@@ -1,19 +1,3 @@
-# Projects
+# OverTheWire Bandit (Levels 0–20) — Summary
 
-Build hands-on projects to reinforce your learning.
-
-## Project Structure
-
-Each project should have:
-
-```
-project-name/
-├── README.md       # What it does, how to run it
-├── script.sh       # Your code (or main file)
-└── examples/       # Example outputs (optional)
-```
-
-## Your Projects
-
-- [ ] Add your first project
-
+Through completing **Levels 0–20 of the OverTheWire Bandit wargame**, I strengthened my Linux command-line skills and gained practical experience working in a remote server environment. I practiced navigating the Linux filesystem, handling hidden and unusual filenames, and manipulating text data using tools such as `grep`, `sort`, `uniq`, and `cat`. I also learned how to search for files with specific properties using `find`, analyze file types with `file`, and work with encoded and compressed data using utilities like `base64`, `gzip`, `bzip2`, and `tar`. Additionally, the challenges introduced important system and networking concepts used in DevOps, including **SSH access, port communication with tools like `nc` and `openssl`, service discovery with `nmap`, and basic permission concepts such as setuid binaries**. These exercises helped build a stronger foundation for working with Linux servers and troubleshooting systems in real-world DevOps environments.
