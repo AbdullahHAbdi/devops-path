@@ -1,36 +1,13 @@
-# Labs
+# Bash Scripting Challenges - Summary
 
-Document your completed labs here.
+Through completing **Challenges 1–4 of the Bash Scripting Challenges**, I deepened my Bash scripting skills by building practical, real-world scripts that combined core scripting concepts with user interaction and file system operations. 
 
-## Template
+I practiced prompting users for input with `read -p`, handling arguments, and validating input with conditional checks using flags such as `-f`, `-d`, `-r`, `-w`, and `-x`. 
 
-When documenting a lab, include:
+I performed arithmetic operations using `$(( ))` syntax, including division by zero handling, and worked with file permissions using `chmod` to test all readable, writable, and executable combinations. 
 
-```markdown
-# Lab: [Lab Name]
+I also automated file system tasks including directory creation, file writing with dynamic timestamps using `date`, and bulk file copying with `cp`. 
 
-## Objective
+The challenges reinforced important scripting habits such as **validating user input before acting on it, ordering operations logically, counting files with `ls` and `wc -l`, and using `exit 1` to stop scripts gracefully on errors**. 
 
-What was the goal?
-
-## Commands Used
-
-(the commands you ran)
-
-## Output
-
-(what happened)
-
-## Challenges
-
-Any issues you hit and how you solved them.
-
-## What I Learned
-
-Key takeaways from this lab.
-```
-
-## Completed Labs
-
-- [ ] Add your first lab
-
+These exercises helped build confidence in writing clean, reliable Bash scripts for automating everyday system tasks in real-world DevOps environments.
