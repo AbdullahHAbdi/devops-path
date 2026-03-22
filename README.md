@@ -23,7 +23,7 @@ devops-learning/
 | Module          | Status      |
 | --------------- | ----------- |
 | 01 - Linux      | ✅ Completed |
-| 02 - Bash       | ⏳ Loading   |
+| 02 - Bash       | ✅ Completed |
 | 03 - Git        | ⏳ Loading   |
 | 04 - Networking | ⏳ Loading   |
 | 05 - Docker     | ⏳ Loading   |
