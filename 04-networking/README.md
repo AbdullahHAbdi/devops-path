@@ -1,4 +1,4 @@
-# 04 - Networking
+# 03 - Networking
  
 Understanding networking is crucial for debugging, security, and infrastructure design.
  
@@ -35,10 +35,10 @@ Deployed a live web server on AWS using EC2 and NGINX, with a custom domain rout
 - How to debug DNS propagation using `nslookup` and what a correct resolution output looks like.
 - The real-world cost model for AWS public IPv4 addresses and how to stay within the free tier.
  
-📁 [`04-networking/ec2-nginx-cloudflare/`](./04-networking/ec2-nginx-cloudflare/)
+📁 [`03-networking/nginx-ec2-cloudflare/`](./03-networking/nginx-ec2-cloudflare/)
  
 ---
- 
+
 ## Key Concepts
  
 | Port | Protocol | Use |
