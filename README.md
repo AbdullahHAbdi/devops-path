@@ -24,10 +24,9 @@ devops-learning/
 | --------------- | ----------- |
 | 01 - Linux      | ✅ Completed |
 | 02 - Bash       | ✅ Completed |
-| 03 - Git        | ⏳ Loading   |
-| 04 - Networking | ⏳ Loading   |
-| 05 - Docker     | ⏳ Loading   |
-| 06 - AWS        | ⏳ Loading   |
-| 07 - Terraform  | ⏳ Loading   |
-| 08 - CI/CD      | ⏳ Loading   |
-| 09 - Kubernetes | ⏳ Loading   |
+| 03 - Networking | ✅ Completed |
+| 04 - Docker     | ⏳ Loading   |
+| 05 - AWS        | ⏳ Loading   |
+| 06 - Terraform  | ⏳ Loading   |
+| 07 - CI/CD      | ⏳ Loading   |
+| 08 - Kubernetes | ⏳ Loading   |
